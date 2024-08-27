@@ -1,0 +1,5 @@
+Shortcut keys
+1. ctrl + D and move ciursor -  select words multiple line apart 
+2. ctrl + shift + alt + Arrow keys - select words no line apart (in next line)
+functions(Unmknown)
+1. Calc (in css)- sub px from %  
